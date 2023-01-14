@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EquiStar</string>
+    <string name="equistar">EquiStar</string>
+    <string name="OpenDrawer">open navigation drawer</string>
+    <string name="CloseDrawer">close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

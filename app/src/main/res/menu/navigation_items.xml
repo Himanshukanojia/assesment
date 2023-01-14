@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/stallions"
+        android:title="Stallions" />
+
+    <item
+        android:id="@+id/broodmares"
+        android:title="Broodmares" />
+
+    <item
+        android:id="@+id/dosage"
+        android:title="Dosage" />
+
+    <item
+        android:id="@+id/farms"
+        android:title="Farms" />
+
+    <item
+        android:id="@+id/pedigrees"
+        android:title="Pedigrees" />
+
+    <item
+        android:id="@+id/news_and_events"
+        android:title="News and Events" />
+
+    <item
+        android:id="@+id/races_and_auctions"
+        android:title="Races and Auctions" />
+
+    <item
+        android:id="@+id/about"
+        android:title="About" />
+</menu>
